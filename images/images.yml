@@ -36,6 +36,6 @@ replicaLocations:
 buildResourceGroup: rg-csu-images
 keyVault: csuimagekv
 virtualNetwork: ctraibvnet01
-virtualNetworkSubnet: subnet02
+virtualNetworkSubnet: subnet03
 virtualNetworkResourceGroup: rg-image-demo
 subscription: aba1b559-231e-432d-ad90-52f3a924917f
